@@ -1,3 +1,5 @@
+Forked from [lancachenet/docker-compose](https://github.com/lancachenet/docker-compose) to customize the .env since portainer makes it difficult.
+
 # Docker Compose for a full-stack lancache.
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/lancachenet/monolithic?label=Monolithic) ![Docker Pulls](https://img.shields.io/docker/pulls/lancachenet/lancache-dns?label=Lancache-dns) ![Docker Pulls](https://img.shields.io/docker/pulls/lancachenet/sniproxy?label=Sniproxy) ![Docker Pulls](https://img.shields.io/docker/pulls/lancachenet/generic?label=Generic)
